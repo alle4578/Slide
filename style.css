@@ -57,16 +57,17 @@ input{
     width: 500%;
     height: 100%;
 }
+
 .slide{
     width: 20%;
     transition: .6s;
-
 }
 .slide img{
     width: 100%;
     height: 100%;
 
 }
+
 #slide1:checked ~ .s1{
     margin-left: 0;
 }
